@@ -1,0 +1,37 @@
+<html>
+<head>
+<script type="text/javascript" src="jquery.js"></script>
+<script type="text/javascript" src="demo.js"></script>
+<link rel="stylesheet" type="text/css" href="demo.css">
+</head>
+
+<body>
+
+<h3>Demo for ProWorkflow Code Testing</h3>
+<p>
+1) Please run those tasks in order.
+</P>
+<p>
+2) After run the step 4, you can click on the job title to get details of the job.
+</P>
+<p>
+3) Tested on Firefox, Safari, IE 11 and Chrome. Chrome has one issue about "XMLHttpRequest cannot load. Origin null is not allowed by Access-Control-Allow-Origin". The root-cause might be the Chrome has a tight rule to access local files.
+</P>
+
+<div id="buttons" class="btnDiv">
+<ul>
+	<li><button class="first">Step 1. Get Projects Data</button></li>
+	<li><button class="second">Step 2. Get Projects Category Data</button></li>
+	<li><button class="third">Step 3. List Projects Grouped by Category</button></li>
+	<li><button class="fourth">Step 4. Bind the click function</button></li>
+	<li><button class="fifth">Step 5. Reset</button></li>
+</ul>
+</div>
+<br />
+<br />
+
+<div id="message">	
+</div>
+</body>
+
+</html>

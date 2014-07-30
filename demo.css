@@ -1,0 +1,25 @@
+div.btnDiv {
+	width: 400px;
+	height: 100px;
+}
+
+div#message ul {
+	border: 1px solid;
+}
+
+div.rowDivider {
+	width: 100%;
+	border-top: 2px solid #ddd;
+}
+
+body {
+	font-family: arial, helvetica, sans-serif;
+}
+
+div.detail li {
+	font-size: 12px;
+}
+
+div#message ul li {
+	padding-left: 10px;
+}

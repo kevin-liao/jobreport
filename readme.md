@@ -1,8 +1,8 @@
-# Kevin Liao Job Report 
+# Kevin Liao Job Report Demo
 
 This is readme of Job Report code testing for ProWorkflow.
 
-## Running the application demo
+## Running the demo
 
 Run the following commands in your terminal. It will prompt you to run the demo.
 
@@ -12,7 +12,7 @@ cd jobreport
 open the demo.html with your browser
 ```
 
-## Howto - Demo to show
+## Howto - Run steps to show the functional requirements
 
 - Please run those tasks in order. 
 - After run the step 4, you can click on the job title to get details of the job.
